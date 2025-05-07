@@ -1,4 +1,4 @@
-# P19.040.A Author List and Affiliations
+# P19.040.A 
 
 **Assessing Idiopathic Pulmonary Fibrosis Genetic Risk Variants Beyond European Populations**
 
@@ -22,7 +22,7 @@ R Gisli Jenkins<sup>18</sup>, Louise V Wain<sup>1,2</sup>, Richard J Allen<sup>1
 <sup>8</sup> University of Nottingham, Nottingham, UK
 <sup>9</sup> University of Hull, Hull, UK  
 <sup>10</sup> University of Oxford, Oxford, UK  
-<sup>11/sup> University of Edinburgh, Edinburgh, UK  
+<sup>11</sup> University of Edinburgh, Edinburgh, UK  
 <sup>12</sup> Division of Respiratory Medicine and Respiratory Research Unit, University of Nottingham, Nottingham, UK
 <sup>13</sup> Yale School of Medicine, Connecticut, USA
 <sup>14</sup> Genomics Division, Instituto Tecnologico y de Energias Renovables, Santa Cruz de Tenerife, Spain  
